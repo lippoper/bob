@@ -7,7 +7,7 @@ $homepage = new Page();
 $homepage->content = "<form id=\"processorder\" action=\"testprocess.php\" method=\"post\">
 	<fieldset>
 	<legend>Place your order:</legend>
-
+	
 	<label for=\"tireqty\">Tires: </label>
 	<input type=\"text\" name=\"tireqty\" size=\"3\" maxlength=\"3\" /><br />
 
