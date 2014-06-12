@@ -4,7 +4,7 @@ class Page {
 	public $content;
 	public $title = "Bob's Consulting";
 	public $keywords = "Bob Consulting. Three Letter Abbreviation. some of my best friends are search engines";
-	public $buttons = array( 	"Home | Place Orders" 		=> 	"/home.php",
+	public $buttons = array( 	"Home | Place Orders" 		=> 	"/index.php",
 								"View Orders" 				=>	"/testview.php",
 								"View Feedback"				=>	"/testfeedback.php");
 
